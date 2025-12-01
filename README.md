@@ -44,7 +44,7 @@ This app uses the **FLAN-T5** model to provide natural, summarized, and reasonin
 
 We provide a dedicated `tests/` folder with scripts to verify the application.
 
-### For Team Leader / QA (Rahul Sir)
+### For Team Leader (Rahul Sir)
 👉 **[View the QA Testing Guide](QA_TESTING_GUIDE.md)** for a step-by-step verification scenario.
 
 1. **Python Test**
@@ -77,6 +77,4 @@ qa_app/
 └── README.md            # This file
 ```
 
-## 📞 Contact
-**Owner**: Kaushik Chaturvedi
-**GitHub**: [Link to Profile]
+
